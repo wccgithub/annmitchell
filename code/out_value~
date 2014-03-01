@@ -1,0 +1,166 @@
+Output unit 1:
+ Weight values: 
+i=0
+  2.43718
+i=1
+  -4.88866
+i=2
+  0.054288
+i=3
+  0.170063
+wcc@wcc-virtual-machine:~/神经网络/code$ ./outtopgm shades_init0.net out2 4 1 2
+Reading 'shades_init0.net'
+'shades_init0.net' contains a 960x3x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+Output unit 2:
+ Weight values: 
+i=0
+  -2.21766
+i=1
+  4.8102
+i=2
+  -5.55744
+i=3
+  -4.82502
+wcc@wcc-virtual-machine:~/神经网络/code$ ./outtopgm shades_init0.net out3 4 1 3
+Reading 'shades_init0.net'
+'shades_init0.net' contains a 960x3x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+Output unit 3:
+ Weight values: 
+i=0
+  -2.32465
+i=1
+  -0.101798
+i=2
+  0.0345954
+i=3
+  4.83333
+wcc@wcc-virtual-machine:~/神经网络/code$ ./outtopgm shades_init0.net out4 4 1 4
+Reading 'shades_init0.net'
+'shades_init0.net' contains a 960x3x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+Output unit 4:
+ Weight values: 
+i=0
+  -2.46925
+i=1
+  0.292907
+i=2
+  5.42761
+i=3
+  -0.329912
+Output unit 1:
+ Weight values: 
+i=0
+  2.43718
+i=1
+  -4.88866
+i=2
+  0.054288
+i=3
+  0.170063
+wcc@wcc-virtual-machine:~/神经网络/code$ ./outtopgm shades_init0.net out2 4 1 2
+Reading 'shades_init0.net'
+'shades_init0.net' contains a 960x3x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+Output unit 2:
+ Weight values: 
+i=0
+  -2.21766
+i=1
+  4.8102
+i=2
+  -5.55744
+i=3
+  -4.82502
+wcc@wcc-virtual-machine:~/神经网络/code$ ./outtopgm shades_init0.net out3 4 1 3
+Reading 'shades_init0.net'Output unit 1:
+ Weight values: 
+i=0
+  2.43718
+i=1
+  -4.88866
+i=2
+  0.054288
+i=3
+  0.170063
+wcc@wcc-virtual-machine:~/神经网络/code$ ./outtopgm shades_init0.net out2 4 1 2
+Reading 'shades_init0.net'
+'shades_init0.net' contains a 960x3x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+Output unit 2:
+ Weight values: 
+i=0
+  -2.21766
+i=1
+  4.8102
+i=2
+  -5.55744
+i=3
+  -4.82502
+wcc@wcc-virtual-machine:~/神经网络/code$ ./outtopgm shades_init0.net out3 4 1 3
+Reading 'shades_init0.net'
+'shades_init0.net' contains a 960x3x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+Output unit 3:
+ Weight values: 
+i=0
+  -2.32465
+i=1
+  -0.101798
+i=2
+  0.0345954
+i=3
+  4.83333
+wcc@wcc-virtual-machine:~/神经网络/code$ ./outtopgm shades_init0.net out4 4 1 4
+Reading 'shades_init0.net'
+'shades_init0.net' contains a 960x3x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+Output unit 4:
+ Weight values: 
+i=0
+  -2.46925
+i=1
+  0.292907
+i=2
+  5.42761
+i=3
+  -0.329912
+
+'shades_init0.net' contains a 960x3x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+Output unit 3:
+ Weight values: 
+i=0
+  -2.32465
+i=1
+  -0.101798
+i=2
+  0.0345954
+i=3
+  4.83333
+wcc@wcc-virtual-machine:~/神经网络/code$ ./outtopgm shades_init0.net out4 4 1 4
+Reading 'shades_init0.net'
+'shades_init0.net' contains a 960x3x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+Output unit 4:
+ Weight values: 
+i=0
+  -2.46925
+i=1
+  0.292907
+i=2
+  5.42761
+i=3
+  -0.329912
+
